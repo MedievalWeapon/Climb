@@ -183,7 +183,6 @@ class DisappearingPlatform(Platform):
 		
 
 room = Canvas(root, height=roomSize, width=roomSize)
-room = Canvas(root, height=roomSize, width=roomSize)
 
 b = Box()
 
